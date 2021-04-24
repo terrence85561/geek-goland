@@ -1,7 +1,5 @@
-package week2
+package main
 
-import "github.com/pkg/errors"
-
-func main() {
-	errors.As()
+func main()  {
+	
 }
